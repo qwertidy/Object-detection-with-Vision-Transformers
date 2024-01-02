@@ -4,7 +4,7 @@
 
 使用 Vision Transformer 進行物件偵測
 
-學號 : 11124232 
+學號 : 11124232 11124221
 
 參考網址 :https://keras.io/examples/vision/object_detection_using_vision_transformer/
 
