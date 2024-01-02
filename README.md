@@ -1,4 +1,5 @@
 # Object-detection-with-Vision-Transformers
+<tr>
 南華大學跨領域-人工智慧
 
 使用 Vision Transformer 進行物件偵測
@@ -10,7 +11,7 @@
 用途 : 課程學習
 
 說明 :在 Caltech 101 資料集上進行訓練 ，以偵測給定影像中的飛機。
-
+</tr>
 <h3>更新版本</h3>
 
 因原作者使用keras版本過舊會產生錯誤，我們首要先更新版本
